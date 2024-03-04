@@ -1,9 +1,9 @@
 # YumXpress
-Details on the employees, customers, and delivery staff, as well as the tasks assigned to them, are contained in this desktop app. Thus, the employees will be able to add their food to the app, and customers will be able to order it. The delivery will then be assigned to the delivery partner, and the order status will finally display as "DELIVERED."
+Details of the Seller, customers, and delivery staff, as well as the tasks assigned to them, are contained in this desktop app. Thus, the Seller will be able to add their food to the app, and customers will be able to order it. The delivery will then be assigned to the delivery partner, and the order status will finally display as "DELIVERED."
 
 # About
-Three people are involved in this desktop application project: the delivery partner, the customer, and staff.
-The staff member must log in to the app; if this is their first time using it, they must register and receive an email.The food of the restaurant is added by the staff, by giving a suitable price . The client will be able to see the food of that particular company and will be able to order them. Multiple companies may register here, and the client will be able to view it. Customers have the option of selecting a specific business or viewing all of the food goods offered by the staff.
+Three people are involved in this desktop application project: the delivery partner, the customer, and Seller.
+The Seller  must log in to the app; if this is their first time using it, they must register and receive an email.The food of the restaurant is added by the Seller, by giving a suitable price . The client will be able to see the food of that particular company and will be able to order them. Multiple companies may register here, and the client will be able to view it. Customers have the option of selecting a specific business or viewing all of the food goods offered by the staff.
 Customers who haven't registered yet must do by providing the  basic information, which includes their name, address, phone number, email address etc in the frame, following that, they will receive a confirmation email.
 The customer will see a frame with food items from several companies in it. By clicking on the item, they may place an order. A dialogue box with the options "ADD TO CART" and "BUY NOW" will then displayed. The customer can select one of these options, pay for it, and receive an email confirming for their transaction. They have the option to increase or decrease the quantity in the cart as well as add more items.
 This also applies to the delivery partner, if they are new, they must register before receiving information about the food bought by Customer. Once registered, they must deliver the order, input an OTP when handing it to the consumer, and the order status will change to "DELIVERED" if it is delivered.
@@ -40,26 +40,32 @@ Oracle
 * API used- Spoonacular API
 * For Emailing - SMTP server (Google Server)
 
-# Staff Frame's
-![Screenshot (741)](https://github.com/sshivangi882/YumXpress/assets/122531720/ecd8754c-d691-4d8b-92fe-b0cd9ae67c05)
-![Screenshot (740)](https://github.com/sshivangi882/YumXpress/assets/122531720/e66539ed-4e8b-4257-8b07-cc95a2df31ad)
-![Screenshot (739)](https://github.com/sshivangi882/YumXpress/assets/122531720/2793cb27-1418-4386-8d62-3ee22518a9e5)
-![Screenshot (738)](https://github.com/sshivangi882/YumXpress/assets/122531720/bf6e91e6-3fb6-4b0e-a2fa-0926aa42214a)
-![Screenshot (737)](https://github.com/sshivangi882/YumXpress/assets/122531720/15941919-d74b-46dd-adec-2b7e3dac3b70)
-![Screenshot (736)](https://github.com/sshivangi882/YumXpress/assets/122531720/e20c7ef8-bfa1-4d8e-992c-172e9c2be918)
+# Seller Frame's
+![Screenshot (741)](https://github.com/sshivangi882/YumXpress/assets/122531720/7b722d5e-3be4-4c2d-a52b-1f5eab3b5a9e)
+![Screenshot (740)](https://github.com/sshivangi882/YumXpress/assets/122531720/c871d3d8-120a-44fb-83d4-db5fce088254)
+![Screenshot (739)](https://github.com/sshivangi882/YumXpress/assets/122531720/39a59236-b082-4e07-8e3f-ca85a4aee6f8)
+![Screenshot (738)](https://github.com/sshivangi882/YumXpress/assets/122531720/d8c9ea01-4c52-4619-af4e-47b8b4be6776)
+![Screenshot (737)](https://github.com/sshivangi882/YumXpress/assets/122531720/5ac9af2e-76d6-42f3-a107-2b8fa17fb62b)
+![Screenshot (736)](https://github.com/sshivangi882/YumXpress/assets/122531720/b7491f76-7841-4ba5-934a-d14a4fc5fc71)
+
+![Screenshot (737)](https://github.com/sshivangi882/YumXpress/assets/122531720/ae26805c-dfb7-47f8-9a73-61cccbf79def)
+
+
 
 # Customers Frame's
+![Screenshot (735)](https://github.com/sshivangi882/YumXpress/assets/122531720/250c3a13-c108-42fd-a17c-2e9447d0cba8)
+![Screenshot (734)](https://github.com/sshivangi882/YumXpress/assets/122531720/3e667e34-5a42-42be-ac5d-cd0e49519c3a)
+![Screenshot (733)](https://github.com/sshivangi882/YumXpress/assets/122531720/b56dbf38-230c-420b-8823-7b815f81af57)
+![Screenshot (732)](https://github.com/sshivangi882/YumXpress/assets/122531720/453c376a-dc74-4705-86a0-27e7e608ec76)
+![Screenshot (731)](https://github.com/sshivangi882/YumXpress/assets/122531720/6cd12497-6b36-461e-a3df-d657e579120d)
 
-![Screenshot (735)](https://github.com/sshivangi882/YumXpress/assets/122531720/7b1cb909-1116-4faa-803a-5132b712e23d)
-![Screenshot (734)](https://github.com/sshivangi882/YumXpress/assets/122531720/4f773fbd-5dd3-4755-973a-88f5dccb02e5)
-![Screenshot (733)](https://github.com/sshivangi882/YumXpress/assets/122531720/bb364a8b-d8ce-4996-b31a-b7c298cc6f8c)
-![Screenshot (732)](https://github.com/sshivangi882/YumXpress/assets/122531720/2ea25f24-2c21-46bf-8e08-e004ea9839ae)
-![Screenshot (731)](https://github.com/sshivangi882/YumXpress/assets/122531720/0536fb52-3a3f-4665-8e53-f6c30c52676e)
+
 
 # Delivery Partner Frame's
 
-![Screenshot (730)](https://github.com/sshivangi882/YumXpress/assets/122531720/64363267-8a61-4211-a970-cdc8c8bcdbd3)
-![Screenshot (729)](https://github.com/sshivangi882/YumXpress/assets/122531720/6e5abd80-93ae-4e69-a591-6475c287ff12)
-![Screenshot (728)](https://github.com/sshivangi882/YumXpress/assets/122531720/6d8ca34b-e00f-40d0-9b8b-2602504fd16f)
+![Screenshot (730)](https://github.com/sshivangi882/YumXpress/assets/122531720/40ae175f-9d45-4b21-b74c-d983b5376536)
+![Screenshot (729)](https://github.com/sshivangi882/YumXpress/assets/122531720/433a0791-7b40-4bef-9dc4-2647cc625ce1)
+![Screenshot (728)](https://github.com/sshivangi882/YumXpress/assets/122531720/24d5f19c-d860-40a7-89b1-28f5b3fe36bb)
+
 
   
