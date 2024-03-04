@@ -41,31 +41,26 @@ Oracle
 * For Emailing - SMTP server (Google Server)
 
 # Seller Frame's
-![Screenshot (741)](https://github.com/sshivangi882/YumXpress/assets/122531720/7b722d5e-3be4-4c2d-a52b-1f5eab3b5a9e)
-![Screenshot (740)](https://github.com/sshivangi882/YumXpress/assets/122531720/c871d3d8-120a-44fb-83d4-db5fce088254)
-![Screenshot (739)](https://github.com/sshivangi882/YumXpress/assets/122531720/39a59236-b082-4e07-8e3f-ca85a4aee6f8)
-![Screenshot (738)](https://github.com/sshivangi882/YumXpress/assets/122531720/d8c9ea01-4c52-4619-af4e-47b8b4be6776)
-![Screenshot (737)](https://github.com/sshivangi882/YumXpress/assets/122531720/5ac9af2e-76d6-42f3-a107-2b8fa17fb62b)
-![Screenshot (736)](https://github.com/sshivangi882/YumXpress/assets/122531720/b7491f76-7841-4ba5-934a-d14a4fc5fc71)
-
-![Screenshot (737)](https://github.com/sshivangi882/YumXpress/assets/122531720/ae26805c-dfb7-47f8-9a73-61cccbf79def)
-
+![Screenshot (736)](https://github.com/sshivangi882/YumXpress/assets/122531720/64231682-eac3-4e4a-8449-c3dc8eb0b1f9)
+![Screenshot (737)](https://github.com/sshivangi882/YumXpress/assets/122531720/ac48e827-a780-4bf4-b2a4-3264fc03961d)
+![Screenshot (738)](https://github.com/sshivangi882/YumXpress/assets/122531720/58e89913-d376-4b20-b0ec-eb4ca5c56b6f)
+![Screenshot (739)](https://github.com/sshivangi882/YumXpress/assets/122531720/ff52c469-59f1-4b69-b269-20a51f24067a)
+![Screenshot (740)](https://github.com/sshivangi882/YumXpress/assets/122531720/0ef0057b-feb1-4330-96b6-17660be0a0b4)
+![Screenshot (741)](https://github.com/sshivangi882/YumXpress/assets/122531720/d4e1568a-d6d8-425f-aa3a-5071cf1e5cbf)
 
 
 # Customers Frame's
-![Screenshot (735)](https://github.com/sshivangi882/YumXpress/assets/122531720/250c3a13-c108-42fd-a17c-2e9447d0cba8)
-![Screenshot (734)](https://github.com/sshivangi882/YumXpress/assets/122531720/3e667e34-5a42-42be-ac5d-cd0e49519c3a)
-![Screenshot (733)](https://github.com/sshivangi882/YumXpress/assets/122531720/b56dbf38-230c-420b-8823-7b815f81af57)
-![Screenshot (732)](https://github.com/sshivangi882/YumXpress/assets/122531720/453c376a-dc74-4705-86a0-27e7e608ec76)
-![Screenshot (731)](https://github.com/sshivangi882/YumXpress/assets/122531720/6cd12497-6b36-461e-a3df-d657e579120d)
-
-
+![Screenshot (731)](https://github.com/sshivangi882/YumXpress/assets/122531720/8f05d16a-5e09-4cc5-a031-1a9d416946b1)
+![Screenshot (732)](https://github.com/sshivangi882/YumXpress/assets/122531720/a18d6818-34c1-4973-8085-604fd29ebdcb)
+![Screenshot (733)](https://github.com/sshivangi882/YumXpress/assets/122531720/f9b1a832-a205-4ca3-971f-28b39d5ee251)
+![Screenshot (734)](https://github.com/sshivangi882/YumXpress/assets/122531720/64aae4b7-f04e-495d-9e20-6c843beb13eb)
+![Screenshot (735)](https://github.com/sshivangi882/YumXpress/assets/122531720/f2fafc41-ec3e-4102-a9bb-0645dcee457c)
 
 # Delivery Partner Frame's
+![Screenshot (728)](https://github.com/sshivangi882/YumXpress/assets/122531720/5ecfb7f5-5a54-4234-8488-dd0747ccdd34)
+![Screenshot (729)](https://github.com/sshivangi882/YumXpress/assets/122531720/c21ef93b-6ad6-4b39-94a4-75bacb76ca1b)
+![Screenshot (730)](https://github.com/sshivangi882/YumXpress/assets/122531720/f0ba0bf3-09a3-492f-9329-904e23602baf)
 
-![Screenshot (730)](https://github.com/sshivangi882/YumXpress/assets/122531720/40ae175f-9d45-4b21-b74c-d983b5376536)
-![Screenshot (729)](https://github.com/sshivangi882/YumXpress/assets/122531720/433a0791-7b40-4bef-9dc4-2647cc625ce1)
-![Screenshot (728)](https://github.com/sshivangi882/YumXpress/assets/122531720/24d5f19c-d860-40a7-89b1-28f5b3fe36bb)
 
 
   
