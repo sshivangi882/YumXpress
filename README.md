@@ -2,6 +2,7 @@
 Details of the Seller, customers, and delivery staff, as well as the tasks assigned to them, are contained in this desktop app. Thus, the Seller will be able to add their food to the app, and customers will be able to order it. The delivery will then be assigned to the delivery partner, and the order status will finally display as "DELIVERED."
 
 # About
+A Splash Screen will open, then a person can choose accordingly. (Seller, Customer or Delivery Partner)
 Three people are involved in this desktop application project: the delivery partner, the customer, and Seller.
 The Seller  must log in to the app; if this is their first time using it, they must register and receive an email.The food of the restaurant is added by the Seller, by giving a suitable price . The client will be able to see the food of that particular company and will be able to order them. Multiple companies may register here, and the client will be able to view it. Customers have the option of selecting a specific business or viewing all of the food goods offered by the staff.
 Customers who haven't registered yet must do by providing the  basic information, which includes their name, address, phone number, email address etc in the frame, following that, they will receive a confirmation email.
@@ -39,6 +40,14 @@ Oracle
 * Oracle Server
 * API used- Spoonacular API
 * For Emailing - SMTP server (Google Server)
+* JAR Files required to run on other Desktop.
+
+
+# Opening Frames
+![Screenshot (745)](https://github.com/sshivangi882/YumXpress/assets/122531720/4e890e39-ccfc-46fa-84c7-bc385da664d4)
+
+A Frame will progress bar will open . After loading a Frame with three options Seller, Customer and Delivery Partner will open respectively.
+![Screenshot (746)](https://github.com/sshivangi882/YumXpress/assets/122531720/ec29a711-292b-48f5-b893-4af138f7d5a2)
 
 # Seller Frame's
 ![Screenshot (736)](https://github.com/sshivangi882/YumXpress/assets/122531720/64231682-eac3-4e4a-8449-c3dc8eb0b1f9)
